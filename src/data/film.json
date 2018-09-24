@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Cats & Dogs",
+    "year": 2001,
+    "genre": "Comedy",
+    "image": "https://img.reelgood.com/content/movie/3cbcdcd0-117d-4808-8515-81a31df9f149/poster-342.webp" ,
+    "rating" :5.1,
+    "duration" :"87 min",
+    "description" : "When a professor develops a vaccine that eliminates human allergies to dogs, he unwittingly upsets the fragile balance of power between cats and dogs and touches off an epic battle for pet supremacy. The fur flies as the feline faction, led by Mr. Tinkles, squares off against wide-eyed puppy Lou and his canine cohorts.",
+    "director" : "Lawrence Guterman" ,
+    "cast" : "Jeff Goldblum, Elizabeth Perkins, Alexander Pollock, Miriam Margolyes, Tobey Maguire"
+  }
+]

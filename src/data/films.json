@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Cats & Dogs",
+    "year": 2011,
+    "genre": "Family",
+    "image": "https://img.reelgood.com/content/movie/3cbcdcd0-117d-4808-8515-81a31df9f149/poster-185.webp"
+  },
+  {
+    "title": "African Cats",
+    "year": 2011,
+    "genre": "Animation",
+    "image": "https://img.reelgood.com/content/movie/7d081a27-ff11-4a0c-a40e-2d8a1e617649/poster-185.webp"
+  },
+  {
+    "title": "Cats Don't Dance",
+    "year": 1997,
+    "genre": "Family",
+    "image": "https://img.reelgood.com/content/movie/a863d04e-f941-4f78-8b9e-1dc9d41dc558/poster-185.webp"
+  },
+  {
+    "title": "Top Cat and the Beverly Hills Cats",
+    "year": 1988,
+    "genre": "Animation",
+    "image": "https://img.reelgood.com/content/movie/917cce3c-832c-4c85-9912-1b4caa8e66f4/poster-185.webp"
+  },
+  {
+    "title": "Cat's Eye",
+    "year": 1985,
+    "genre": "Family",
+    "image": "https://img.reelgood.com/content/movie/9f1f6a94-3d51-4b3f-954f-11b1d3feb49b/poster-185.webp"
+  },
+  {
+    "title": "Cats & Dogs: The Revenge of Kitty Galore",
+    "year": 2010,
+    "genre": "Animation",
+    "image": "https://img.reelgood.com/content/movie/3a67f3f2-3786-4f67-bcf2-df76bd9ec41f/poster-185.webp"
+  },
+  {
+    "title": "Grumpy Cat's Worst Christmas Ever",
+    "year": 2014,
+    "genre": "Family",
+    "image": "https://img.reelgood.com/content/movie/b886cfd5-b224-4a3e-8be5-be9d2d900bbf/poster-185.webp"
+  },
+  {
+    "title": "Garfield",
+    "year": 2004,
+    "genre": "Family",
+    "image": "https://img.reelgood.com/content/movie/45793340-4026-41ca-b844-56e114200e27/poster-185.webp"
+  },
+  {
+    "title": "Tom and Jerry: The Movie",
+    "year": 1992,
+    "genre": "Animation",
+    "image": "https://img.reelgood.com/content/movie/5a53e49c-209e-4c62-8ad6-10f40075df4f/poster-185.webp"
+  }
+
+]
