@@ -1,6 +1,6 @@
 const path = require('path');
 const webpack = require('webpack');
-const publicPath = '/public/';
+const publicPath = '../hello/public/';
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 
