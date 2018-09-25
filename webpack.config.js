@@ -13,8 +13,7 @@ module.exports = {
 		new HtmlWebpackPlugin({
 			title: 'Netflix Search',
 			template: __dirname + '/src/index.html'
-		}),
-		new webpack.HotModuleReplacementPlugin()
+		})
 	],
 
 	output: {
