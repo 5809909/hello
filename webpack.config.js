@@ -1,6 +1,6 @@
 const path = require('path');
 const webpack = require('webpack');
-const publicPath = '../hello/';
+const publicPath = '/public/';
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 
@@ -18,7 +18,7 @@ module.exports = {
 
 	output: {
 		path: path.join(__dirname, publicPath),
-		filename: 'bundle.js',
+		filename: '[name].bundle.js',
 		publicPath: publicPath,
 		sourceMapFilename: '[name].map',
 	},

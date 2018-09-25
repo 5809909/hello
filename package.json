@@ -7,7 +7,9 @@
     "build": "webpack",
     "build:dev": " rimraf public && webpack --env=dev --progress --profile --colors",
     "start": "webpack-dev-server --mode development --hot --colors --progress --open",
-    "build:dist": "webpack --env=prod --progress --profile --colors"
+    "build:dist": "webpack --env=prod --progress --profile --colors",
+    "deploy": "gh-pages -d build"
+
   },
   "keywords": [],
   "author": "",
@@ -20,6 +22,7 @@
     "babel-preset-react": "^6.24.1",
     "css-loader": "^1.0.0",
     "file-loader": "^2.0.0",
+    "gh-pages": "^2.0.0",
     "html-webpack-plugin": "^3.2.0",
     "prop-types": "latest",
     "redux-devtools": "^3.4.1",
