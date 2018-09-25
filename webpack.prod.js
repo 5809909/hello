@@ -1,4 +1,4 @@
-const publicPath = '/public/';
+const publicPath = '/hello/public/';
 
 const path = require('path');
 const webpack = require('webpack');
